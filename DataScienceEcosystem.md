@@ -21,23 +21,10 @@ Some of the commonly used libraries used by Data Scientists include:
 2. TensorFlow (for deep learning)
 3. PyTorch (for deep learning)
 
-
-```python
-import pandas as pd  # Importing the pandas library
-
-# Creating a DataFrame to represent the table
-data = {
-    "Data Science Tools": ["Jupyter Notebook", "RStudio", "VS Code"]
-}
-
-df = pd.DataFrame(data)  # Creating a DataFrame from the data dictionary
-print(df)  # Printing the DataFrame to display the table
-```
-
-      Data Science Tools
-    0   Jupyter Notebook
-    1            RStudio
-    2            VS Code
+   #   Data Science Tools
+      Jupyter Notebook
+               RStudio
+              VS Code
 
 
 Below are a few examples of evaluating arithmetic expressions in Python.
